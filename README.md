@@ -1,10 +1,20 @@
-# Redrock-SRE-2022-Security-Winter-Assessment-XinNian
+# Redrock-SRE-2022-Security-Winter-Assessment
+
+通过任意一考核即通过。
 上次过年还是上次，下次过年还是下次，提前新年快乐咯~!
 
-## 注意事项:
+## 考核一: XinNian
+文件为 XinNian.exe
+ ## 考核二：静态调试
+
+文件为 static_debug_.exe
+
+### 注意事项:
 1. 提示会在逢年过节的日子给出，大家不要惊慌
 2. 禁止抄袭
 3. WP 需要包含思考的过程以及截图,不准意识流和文字流,实践科学,扎不多得勒。
-4. 将 WP 提交至 qingshui@redrock.team ,注意要带上自己的学号。
+4. 将 WP 提交至对应学长 ,注意要带上自己的学号。
 5. 截止日期 <font color =red > 2月25日 00:00  <font>
-6. 如果发现大问题,可以联系冯宇祥 。
+6. 考核一问题联系冯宇祥 。
+7. 考核二问题联系肖登拓。
+
