@@ -5,10 +5,11 @@
 
 ## 考核一: XinNian
 文件为 XinNian.exe
+Wp 提交邮箱：qingshui@redrock.team
  ## 考核二：静态调试
 
 文件为 static_debug_.exe
-
+Wp 提交邮箱：fallen@redrock.team
 ### 注意事项:
 1. 提示会在逢年过节的日子给出，大家不要惊慌
 2. 禁止抄袭
