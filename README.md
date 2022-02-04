@@ -7,7 +7,9 @@
 文件为 XinNian.exe
 ## 提示:
 flag 输入应该仅为 0 or 1 。懒得改了...嘻嘻
+
 这道题考察的是SMC，你可以尝试动态分析和静态分析
+
 Wp 提交邮箱：qingshui@redrock.team
  ## 考核二：静态调试
 
