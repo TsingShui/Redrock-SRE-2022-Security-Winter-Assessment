@@ -17,6 +17,9 @@ Wp 提交邮箱：qingshui@redrock.team
 
 文件为 static_debug_.exe
 Wp 提交邮箱：fallen@redrock.team
+取消了反调试函数中的函数数组赋值，修复了一些错误
+
+
 ### 注意事项:
 1. 提示会在逢年过节的日子给出，大家不要惊慌
 2. 禁止抄袭
